@@ -33,7 +33,7 @@ git clone https://github.com/Mkhenso-jay/Machine_Learning_LAB03.git
 cd Machine_Learning_LAB03
 
 2.Run the script
-  python fulllab03.py
+python fulllab03.py
 
 ## Results
 

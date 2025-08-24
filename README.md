@@ -19,7 +19,7 @@ It follows exercises from *Python Machine Learning, Chapter 3*.
 
 
 ##  Technologies Used
-- **Python 3**
+- **Python **
 - **NumPy**
 - **Matplotlib**
 - **Scikit-learn**
